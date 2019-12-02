@@ -1,0 +1,16 @@
+[
+  {
+    "lowerLimit": 0,
+    "upperLimit": 5000,
+    "discountPercent": 0
+  },
+  {
+    "lowerLimit": 4000,
+    "upperLimit": 10000,
+    "discountPercent": 10
+  },
+  {
+    "lowerLimit": 10000,
+    "discountPercent": 20
+  }
+]
