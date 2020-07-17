@@ -14,6 +14,7 @@ public class App {
 
     ShoppingCart shoppingCart =
         new ShoppingCart(new SlabManager("Slabs.json"), purchaseAmount);
+    
     try {
       System.out.println("Final bill amount = " +
           Math.round(shoppingCart.getBillAmount()));
